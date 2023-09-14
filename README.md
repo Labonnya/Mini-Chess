@@ -6,7 +6,7 @@ The game features a simple and intuitive user interface, making it easy to learn
 
 The game is also highly customizable, allowing you to change the board theme, piece style, and other settings.
 
-# Features:
+# Features
 
 Simple and intuitive user interface
 Play against a challenging AI opponent
@@ -14,7 +14,7 @@ Server-side rendering for improved performance and SEO
 Static site generation for even faster and more scalable performance
 Image optimization for visually appealing graphics
 
-# How to play:
+# How to play
 
 Click on a piece to select it.
 Click on the square where you want to move the piece.
@@ -24,11 +24,13 @@ To win the game, you must checkmate the other king. Checkmate is when the king i
 
 Have fun!
 
-# Tips for playing against the AI:
+# Tips for playing against the AI
 
 The AI is very good at finding and exploiting weaknesses in your position. Be careful not to leave any pieces undefended.
 The AI is also very good at planning ahead. Try to think several moves ahead and anticipate the AI's moves.
 Don't be afraid to sacrifice pieces if it means improving your position or gaining an advantage.
+
+# Screenshots
 
 ![Screenshot (920)](https://github.com/Labonnya/Mini-Chess/assets/75426550/ec5869d9-317b-4a3c-8d4a-94024d9b4edb)
 ![Screenshot (921)](https://github.com/Labonnya/Mini-Chess/assets/75426550/90cf3c84-2374-4209-8080-dc0902829a8c)
