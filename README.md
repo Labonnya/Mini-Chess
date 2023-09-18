@@ -9,9 +9,13 @@ The game is also highly customizable, allowing you to change the board theme, pi
 # Features
 
 Simple and intuitive user interface
+
 Play against a challenging AI opponent
+
 Server-side rendering for improved performance and SEO
+
 Static site generation for even faster and more scalable performance
+
 Image optimization for visually appealing graphics
 
 # How to play
